@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Cubed-Development/.github/assets/82710983/6b896214-6636-41aa-9770-e9b56230b1d1" width="128" />
+  <img src="https://github.com/Cubed-Development/.github/assets/76911089/d9b10f8e-3dab-4d48-94c6-4a10a12ba3db" width="182" />
 </p>
 
 [![Patreon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/patreon-plural_vector.svg)](https://patreon.com/ModernWarfareCubed)
