@@ -13,3 +13,9 @@
 
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/modern-warfare-cubed)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/modern-warfare-cubed)
+
+## Websites
+
+- [Modern Warfare Cubed Documentation](https://github.com/Cubed-Development/Modern-Warfare-Cubed-Documentation)
+
+[![Modern Warfare Cubed Documentation](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://cubed-development.github.io/Modern-Warfare-Cubed-Documentation/)
